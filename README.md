@@ -1,5 +1,3 @@
-### ARTICLE 3: GitHub (Tech & Infrastructure Angle)
-
 # Technical Overview & Workflow Integration Guide for OpusClip
 
 OpusClip (`opusclip-engine`) is an AI-driven video processing and automated content repurposing platform built to convert long-form video/audio inputs into vertical, short-form assets (9:16). The platform leverages Large Language Models (LLMs) for semantic text parsing, computer vision for speaker detection/active tracking, and automated rendering pipelines for caption burn-in and B-roll generation.
